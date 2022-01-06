@@ -1,9 +1,12 @@
 ### Olá, Eu sou o Rennan Macarini 😎
 
+## Sobre mim 🔥
 
-- 🔭 Hoje procuro me especializar em Front-End
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: Ele/Dele
+- 🐱‍🏍 Hoje procuro me especializar em Front-End
+- 👨‍🎓 Estudando JavaScript
+- 🚀 Realizarei todas as semanas projetos em commit
+- ⚽ Não esquecer de praticar exercicio fisico
+
 
 ##
 
