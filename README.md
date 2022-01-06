@@ -5,7 +5,7 @@
 - 🐱‍🏍 Hoje procuro me especializar em Front-End
 - 👨‍🎓 Estudando JavaScript
 - 🚀 Realizarei todas as semanas projetos em commit
-- ⚽ Não esquecer de praticar exercicio fisico
+- ⚽ Não esquecer de praticar exercício fisico
 
 
 ##
